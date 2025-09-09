@@ -29,3 +29,34 @@ font-family: "Plus Jakarta Sans", sans-serif;
   font-style: normal;
 }
 
+nav ul {
+    display: flex;
+    justify-content: center;
+    gap: 0.6em;
+    list-style: none;
+    margin: 0.6em;
+    padding: 0.6em;
+}
+
+ul {
+    list-style: none;
+    margin: 0.6em;
+    padding: 0.6em;
+    
+}
+
+main ul {
+    display: block;
+}
+
+.galleri {
+  display: block;
+}
+
+.galleri img {
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  height: auto;
+}
+
